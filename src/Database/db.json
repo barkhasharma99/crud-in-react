@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name" : "barkha sharma",
+            "email" : "barkha@gmail.com",
+            "phone" : "0123456789",
+            "id" : 1 
+        },
+        {
+            "name" : "manju sharma",
+            "email" : "barkha@gmail.com",
+            "phone" : "0123456789",
+            "id" : 1 
+        },
+        {
+            "name" : "madhuri sharma",
+            "email" : "barkha@gmail.com",
+            "phone" : "0123456789",
+            "id" : 1 
+        }
+    ]
+}
